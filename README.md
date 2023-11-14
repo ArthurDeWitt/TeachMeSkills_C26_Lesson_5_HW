@@ -10,14 +10,15 @@ Create a program to color a chessboard using a loop.
 Create an 8x8 two-dimensional array of String's. Use loops to set
 B(Black) or W(White) values to the elements of the loop. The result of the program
 of the program:
-  W B W B W B W B
-	B W B W B W B W
-	W B W B W B W B
-	B W B W B W B W
-	W B W B W B W B
-	B W B W B W B W
-	W B W B W B W B
-	B W B W B W B W
+
+W B W B W B W B
+B W B W B W B W
+W B W B W B W B
+B W B W B W B W
+W B W B W B W B
+B W B W B W B W
+W B W B W B W B
+B W B W B W B W
 
 # AdditionalTask0
 Multiplication of two matrices
